@@ -342,7 +342,7 @@ VirtualBox is installed and configured. Time to build your first virtual machine
 
 ## ⬅️ Previous Step
 
-**[← 01 - Pre-Requirements](../01-Pre-Requirements/README.md)**
+**[← 01 - Pre-Requirements](../01%20-%20Pre-Requirements/README.md)**
 
 ---
 
