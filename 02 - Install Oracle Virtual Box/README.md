@@ -336,7 +336,7 @@ Ready to proceed
 
 VirtualBox is installed and configured. Time to build your first virtual machine.
 
-**[03 - Create the Domain Controller VM (DC01) →](../03-Create-DC01-VM/README.md)**
+**[03 - Create the Domain Controller VM (DC01) →](../03%20-%20Create%20the%20DC01%20VM/README.md)**
 
 ---
 
