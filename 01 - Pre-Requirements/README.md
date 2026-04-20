@@ -194,7 +194,7 @@ C:\LabFiles\
 
 Once every box in the checklist is ticked you are ready to move on.
 
-**[02 - Install Oracle VirtualBox →](../02-Install-Oracle-VirtualBox/README.md)**
+**[02 - Install Oracle VirtualBox →](../02%20-%20Install%20Oracle%20Virtual%20Box/README.md)**
 
 ---
 
