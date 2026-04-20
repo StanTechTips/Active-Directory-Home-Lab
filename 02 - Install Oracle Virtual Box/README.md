@@ -281,7 +281,7 @@ VirtualBox can see that virtualisation is not enabled at the CPU level.
 **Fix:**
 1. Shut down your PC completely (not restart — fully shut down)
 2. Boot into BIOS and enable Intel VT-x or AMD-V
-3. See [01 - Pre-Requirements](../01-Pre-Requirements/README.md) for detailed BIOS steps
+3. See [01 - Pre-Requirements](../01%20-%20Pre-Requirements/README.md) for detailed BIOS steps
 
 ---
 
