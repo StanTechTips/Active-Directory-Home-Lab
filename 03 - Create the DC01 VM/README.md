@@ -382,13 +382,13 @@ Ready to proceed
 
 DC01 is built and ready. Time to boot it up and install Windows Server 2022.
 
-**[04 - Install Windows Server 2022 →](../04-Install-Windows-Server-2022/README.md)**
+**[04 - Install Windows Server 2022 →](../04%20-%20Install%20Windows%20Server%202022%20/README.md)**
 
 ---
 
 ## ⬅️ Previous Step
 
-**[← 02 - Install Oracle VirtualBox](../02-Install-Oracle-VirtualBox/README.md)**
+**[← 02 - Install Oracle VirtualBox](../02%20-%20Install%20Oracle%20Virtual%20Box/README.md)**
 
 ---
 
