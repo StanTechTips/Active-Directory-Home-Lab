@@ -443,13 +443,13 @@ Ready to proceed
 DC01 is correctly named and has a stable IP address.
 Time to install the Active Directory Domain Services role.
 
-**[06 - Install Active Directory Domain Services →](../06-Install-Active-Directory/README.md)**
+**[06 - Install Active Directory Domain Services →](../06%20-%20Install%20Active%20Directory/README.md)**
 
 ---
 
 ## ⬅️ Previous Step
 
-**[← 04 - Install Windows Server 2022](../04-Install-Windows-Server-2022/README.md)**
+**[← 04 - Install Windows Server 2022](../04%20-%20Install%20Windows%20Server%202022%20/README.md)**
 
 ---
 
