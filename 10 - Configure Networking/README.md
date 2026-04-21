@@ -547,13 +547,13 @@ Ready to proceed
 
 DC01 networking is solid. Time to build the Windows 11 workstation VM.
 
-**[11 - Create the WS01 VM →](../11-Create-WS01-VM/README.md)**
+**[11 - Create the WS01 VM →](../11%20-%20Create%20the%20WS01%20VM/README.md)**
 
 ---
 
 ## ⬅️ Previous Step
 
-**[← 09 - Bulk Create Users with PowerShell](../09-Bulk-Create-Users/README.md)**
+**[← 09 - Bulk Create Users with PowerShell](../09%20-%20Bulk%20Create%20Users%20with%20PowerShell/README.md)**
 
 ---
 
