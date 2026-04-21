@@ -659,13 +659,13 @@ The Lab.local domain is live and DC01 is a fully functioning Domain Controller.
 Now we build a proper Organisational Unit structure to organise
 users, computers, and groups.
 
-**[08 - Create Organisational Unit Structure →](../08-Create-OU-Structure/README.md)**
+**[08 - Create Organisational Unit Structure →](../08%20-%20Create%20OU%20Structure/README.md)**
 
 ---
 
 ## ⬅️ Previous Step
 
-**[← 06 - Install Active Directory Domain Services](../06-Install-Active-Directory/README.md)**
+**[← 06 - Install Active Directory Domain Services](../06%20-%20Install%20Active%20Directory/README.md)**
 
 ---
 
