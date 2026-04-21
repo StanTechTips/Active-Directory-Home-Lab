@@ -457,7 +457,7 @@ Ready to proceed
 Windows Server 2022 is installed and running. Now we configure the server
 before installing Active Directory — renaming it to DC01 and setting a static IP.
 
-**[05 - Configure DC01 →](../005%20-%20Congigure%20DC01/README.md)**
+**[05 - Configure DC01 →](../05%20-%20Congigure%20DC01/README.md)**
 
 ---
 
