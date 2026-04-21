@@ -502,13 +502,13 @@ Ready to proceed
 WS01 is built and the Windows 11 installer is on screen.
 Time to install Windows 11 Pro and configure it for domain joining.
 
-**[12 - Install Windows 11 →](../12-Install-Windows-11/README.md)**
+**[12 - Install Windows 11 →](../12%20-%20Install%20Windows%2011/README.md)**
 
 ---
 
 ## ⬅️ Previous Step
 
-**[← 10 - Configure Lab Networking](../10-Configure-Networking/README.md)**
+**[← 10 - Configure Lab Networking](../10%20-%20Configure%20Networking/README.md)**
 
 ---
 
