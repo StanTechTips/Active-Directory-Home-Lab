@@ -511,13 +511,13 @@ Ready to proceed
 The OU structure is ready. Time to populate it with 110 domain users
 using a PowerShell automation script.
 
-**[09 - Bulk Create Users with PowerShell →](../09-Bulk-Create-Users/README.md)**
+**[09 - Bulk Create Users with PowerShell →](../09%20-%20Bulk%20Create%20Users%20with%20PowerShell/README.md)**
 
 ---
 
 ## ⬅️ Previous Step
 
-**[← 07 - Promote to Domain Controller](../07-Promote-to-Domain-Controller/README.md)**
+**[← 07 - Promote to Domain Controller](../07%20-%20Promote%20to%20Domain%20Controller/README.md)**
 
 ---
 
