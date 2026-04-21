@@ -675,13 +675,13 @@ Ready to proceed
 Windows 11 is installed and WS01 can reach DC01 over the network.
 Time to join WS01 to the Lab.local domain.
 
-**[13 - Join WS01 to the Domain →](../13-Join-Domain/README.md)**
+**[13 - Join WS01 to the Domain →](../13%20-%20Join%20WS01%20to%20the%20Domain/README.md)**
 
 ---
 
 ## ⬅️ Previous Step
 
-**[← 11 - Create the WS01 VM](../11-Create-WS01-VM/README.md)**
+**[← 11 - Create the WS01 VM](../11%20-%20Create%20the%20WS01%20VM/README.md)**
 
 ---
 
