@@ -653,13 +653,13 @@ Ready to proceed
 WS01 is domain-joined and the lab infrastructure is complete.
 Now we build the Group Policy Objects that manage the domain.
 
-**[14 - GPO 1 Password Policy →](../14-GPO1-Password-Policy/README.md)**
+**[14 - GPO 1 Password Policy →](../14%20-%20GPO%201%20-%20Password%20Policy/README.md)**
 
 ---
 
 ## ⬅️ Previous Step
 
-**[← 12 - Install Windows 11](../12-Install-Windows-11/README.md)**
+**[← 12 - Install Windows 11](../12%20-%20Install%20Windows%2011/README.md)**
 
 ---
 
