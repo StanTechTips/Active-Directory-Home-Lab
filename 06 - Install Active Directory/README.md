@@ -486,13 +486,13 @@ Ready to proceed
 The AD DS role is installed. Now we promote DC01 to a Domain Controller
 and create the **Lab.local** domain.
 
-**[07 - Promote to Domain Controller →](../07-Promote-to-Domain-Controller/README.md)**
+**[07 - Promote to Domain Controller →](../07%20-%20Promote%20to%20Domain%20Controller/README.md)**
 
 ---
 
 ## ⬅️ Previous Step
 
-**[← 05 - Configure DC01](../05-Configure-DC01/README.md)**
+**[← 05 - Configure DC01](../05%20-%20Congigure%20DC01/README.md)**
 
 ---
 
