@@ -645,7 +645,7 @@ brute force password attacks.
 
 ## ⬅️ Previous Step
 
-**[← 13 - Join WS01 to the Domain](../13-Join-Domain/README.md)**
+**[← 13 - Join WS01 to the Domain](../13%20-%20Join%20WS01%20to%20the%20Domain/README.md)**
 
 ---
 
