@@ -666,13 +666,13 @@ Ready to proceed
 The domain is populated with 110 users. Now we configure the
 lab network so DC01 and WS01 can communicate with each other.
 
-**[10 - Configure Lab Networking →](../10-Configure-Networking/README.md)**
+**[10 - Configure Lab Networking →](../10%20-%20Configure%20Networking/README.md)**
 
 ---
 
 ## ⬅️ Previous Step
 
-**[← 08 - Create OU Structure](../08-Create-OU-Structure/README.md)**
+**[← 08 - Create OU Structure](../08%20-%20Create%20OU%20Structure/README.md)**
 
 ---
 
