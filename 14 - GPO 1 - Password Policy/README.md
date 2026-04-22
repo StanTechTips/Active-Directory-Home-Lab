@@ -639,7 +639,7 @@ Password Policy is enforced across the domain.
 Now we configure Account Lockout to protect against
 brute force password attacks.
 
-**[15 - GPO 2 Account Lockout Policy →](../15-GPO2-Account-Lockout/README.md)**
+**[15 - GPO 2 Account Lockout Policy →](../15%20-%20GPO%202%20-%20Account%20Lockout/README.md)**
 
 ---
 
