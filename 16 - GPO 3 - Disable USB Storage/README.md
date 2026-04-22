@@ -685,13 +685,13 @@ USB Storage is blocked on all domain workstations.
 This is the final GPO — Desktop Wallpaper pushed to all domain users,
 visually confirming your entire Group Policy infrastructure is working.
 
-**[17 - GPO 4 Desktop Wallpaper →](../17-GPO4-Desktop-Wallpaper/README.md)**
+**[17 - GPO 4 Desktop Wallpaper →](../17%20-%20GPO%204%20-%20Desktop%20Wallpaper/README.md)**
 
 ---
 
 ## ⬅️ Previous Step
 
-**[← 15 - GPO 2 Account Lockout Policy](../15-GPO2-Account-Lockout/README.md)**
+**[← 15 - GPO 2 Account Lockout Policy](../15%20-%20GPO%202%20-%20Account%20Lockout/README.md)**
 
 ---
 
