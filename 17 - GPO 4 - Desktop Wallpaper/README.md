@@ -826,7 +826,7 @@ Now that the core lab is complete, here are ideas to extend it further:
 
 ## ⬅️ Previous Step
 
-**[← 16 - GPO 3 Disable USB Storage](../16-GPO3-Disable-USB/README.md)**
+**[← 16 - GPO 3 Disable USB Storage](../16%20-%20GPO%203%20-%20Disable%20USB%20Storage/README.md)**
 
 ---
 
