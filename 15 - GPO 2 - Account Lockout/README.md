@@ -661,13 +661,13 @@ Password Policy and Account Lockout are both live.
 Now we deploy a security GPO that prevents USB storage
 devices from being used on domain workstations.
 
-**[16 - GPO 3 Disable USB Storage →](../16-GPO3-Disable-USB/README.md)**
+**[16 - GPO 3 Disable USB Storage →](../16%20-%20GPO%203%20-%20Disable%20USB%20Storage/README.md)**
 
 ---
 
 ## ⬅️ Previous Step
 
-**[← 14 - GPO 1 Password Policy](../14-GPO1-Password-Policy/README.md)**
+**[← 14 - GPO 1 Password Policy](../14%20-%20GPO%201%20-%20Password%20Policy/README.md)**
 
 ---
 
